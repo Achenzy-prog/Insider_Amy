@@ -1,0 +1,30 @@
+============================================================
+INSIDER DETECTION REPORT
+============================================================
+Wallet: 0xee50a31c3f5a7c77824b12a941a54388a2827ed6
+
+STAGE 1 — Anomaly Filter
+  S1 composite score:        0.3962
+  Flagged (top 25%):          No
+
+STAGE 2 — Signal Modules
+  Signal 1 (timing):         0 trades flagged
+  Signal 2 (concentration):
+    Category HHI:            1.0000 ⚠
+    Single-event dominance:  22.4%
+  Signal 3 (market impact):  0 trades flagged
+  Signal 4 (network):        in cluster = False
+
+STAGE 3 — Skill vs Luck Model
+  Win rate:                  47/59  (79.7%)
+  P(skilled | wins):         1.0000
+  Classification:            SKILLED ⚠
+
+STAGE 3B — Profit Concentration
+  Insider-prone P&L share:   -0.0%
+
+OVERALL VERDICT
+  Flags raised: 2 / 8
+  → WEAK SIGNAL — some anomalies but insufficient evidence alone
+
+============================================================

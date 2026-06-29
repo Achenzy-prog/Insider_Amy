@@ -1,0 +1,11 @@
+{
+    "AlphaRaccoon":  {"id": "0xee50a31c3f5a7c77824b12a941a54388a2827ed6", "category": "Insider",  "event": "Google search results"},
+    "Venezuela":     {"id": "0x31a56e9e690c621ed21de08cb559e9524cdb8ed9", "category": "Insider",  "event": "Venezuela"},
+    "OmerZiv":       {"id": "0xc0a005750061e6b5c5699c395a09fd238116ac10", "category": "Insider",  "event": "Iran and Israel"},
+    "Betwick":       {"id": "0xc851cd9bee7d262afd78674f861f9f576a12cd2a", "category": "Skilled", "event": "Google search results"},
+    "huludubu":      {"id": "0xe7387473b06723543688 4d16799777cf279edf65", "category": "Skilled", "event": "Venezuela"},
+    "Gambler2026":   {"id": "0xce41369f5db6f155fb6d2ae31f6d57052904fa02", "category": "Skilled", "event": "Iran and Israel"},
+    "Minecraft":     {"id": "0x094e3e7c5486ca7f5efd45de09857b873c70f10b", "category": "Average", "event": "Google search results"},
+    "OTW10T":        {"id": "0x1f742b63dfdc4b6d58890cbbc380b125d1c6558d", "category": "Average", "event": "Venezuela"},
+    "taerv534":      {"id": "0x30f91b6df5a62ab2e504045e25fd449a23affbfc", "category": "Average", "event": "Iran and Israel"}
+  }

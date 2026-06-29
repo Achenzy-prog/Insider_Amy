@@ -1,0 +1,26 @@
+{
+  "wallet": "0xee50a31c3f5a7c77824b12a941a54388a2827ed6",
+  "signal1_timing": {
+    "n_trades_with_timing": 0,
+    "n_flagged": 0,
+    "mean_timing_z": null
+  },
+  "signal2_concentration": {
+    "category_hhi": 1.0,
+    "hhi_flagged": true,
+    "single_event_share": 0.22419351968214482,
+    "dominance_flagged": false
+  },
+  "signal3_impact": {
+    "n_trades": 0,
+    "n_flagged": 0
+  },
+  "signal4_network": {
+    "n_nodes": 1,
+    "n_edges": 0,
+    "n_clusters": 0,
+    "target_in_cluster": false,
+    "target_cluster_size": 0,
+    "target_cluster_wallets": []
+  }
+}

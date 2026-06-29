@@ -1,0 +1,11 @@
+{
+  "total_volume_usdc": 3926940.3436869998,
+  "category_hhi": 1.0,
+  "category_breakdown": {
+    "Unknown": 3926940.343687
+  },
+  "single_event_share": 0.22419351968214482,
+  "dominant_condition_id": "0x5e9d439604053a0ca5644927fae8ac677b04e30e07507e4b6eb0d24dcc224f4e",
+  "hhi_flagged": true,
+  "dominance_flagged": false
+}

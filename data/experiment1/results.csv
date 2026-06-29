@@ -1,0 +1,10 @@
+name,category,event,n_trades,n_markets,win_rate,wilson_lb,adj_roi_pct,hhi,single_event_share,timing_flagged,mean_timing_z,impact_flagged,s1_composite
+OTW10T,Average,Venezuela,323,212,90/212 (42.5%),0.3599,0.5168,1.0,5.3%,0,0.0,0,0.3327
+Minecraft,Average,Google search results,3500,630,336/630 (53.3%),0.4943,0.3666,1.0,6.7%,0,0.0,0,0.3196
+taerv534,Average,Iran and Israel,3500,247,15/247 (6.1%),0.0371,0.3507,1.0,38.0%,0,0.0,0,0.1533
+AlphaRaccoon,Insider,Google search results,3500,59,47/59 (79.7%),0.6773,0.3988,1.0,22.4%,0,0.0,0,0.3966
+OmerZiv,Insider,Iran and Israel,302,5,5/5 (100.0%),0.5655,0.4064,1.0,52.3%,0,0.0,0,0.3605
+Venezuela,Insider,Venezuela,15,4,3/4 (75.0%),0.3006,0.616,1.0,81.8%,0,0.0,0,0.3516
+Gambler2026,Skilled,Iran and Israel,1407,33,29/33 (87.9%),0.7267,0.395,1.0,19.3%,0,0.0,0,0.4123
+Betwick,Skilled,Google search results,3500,76,33/76 (43.4%),0.3286,0.4335,1.0,12.8%,0,0.0,0,0.2884
+huludubu,Skilled,Venezuela,3500,135,41/135 (30.4%),0.2325,0.4141,1.0,14.8%,0,0.0,0,0.247
